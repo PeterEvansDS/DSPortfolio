@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Portfolio on PeterEvansDS</title>
+    <link>https://peterevansds.github.io/DSPortfolio/</link>
+    <description>Recent content in Data Portfolio on PeterEvansDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Sep 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://peterevansds.github.io/DSPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dating App Clustering</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-6/</link>
+      <pubDate>Wed, 22 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Work in progress!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am currently in the process of completing my Masters thesis that will be centred on the segmentation of dating app profiles, making use of natural language processing techniques applied to their user bios to try and increase performance.&lt;/p&gt;
+&lt;p&gt;Below is my project proposal:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PySpark Regression</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-5/</link>
+      <pubDate>Sun, 19 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-5/</guid>
+      <description>&lt;p&gt;The problem with using standard Python data science libraries like NumPy and Pandas is that they operate in the main memory of the system. This can become a problem when the datasets start getting large, as is common with the advent of big data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sarcastic Headlines</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-3/</link>
+      <pubDate>Wed, 21 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-3/</guid>
+      <description>&lt;p&gt;NLP classification model built to determine whether a headline is sarcastic or not, with an EDA conducted using Tableau.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Airline Satisfaction Clustering and Classification</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-7/</link>
+      <pubDate>Mon, 07 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-7/</guid>
+      <description>&lt;p&gt;A group project for the Applied Techniques of Data Mining and Machine Learning module of my current Masters. We were tasked with undertaking an extensive data mining project in pairs, including a literature review and business problem evaluation.&lt;/p&gt;
+&lt;p&gt;My partner and I chose to perform both clustering and classification tasks on a &lt;a href=&#34;https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction&#34;&gt;dataset of airline satisfaction results&lt;/a&gt;, following the CRISP-DM data science framework.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Salary Classification</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-2/</link>
+      <pubDate>Mon, 12 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-2/</guid>
+      <description>&lt;p&gt;Model to predict whether someone receives a salary of over 50k using their characteristics listed in the census, built using the dataset from the &lt;a href=&#34;http://archive.ics.uci.edu/ml/datasets/Adult&#34;&gt;UCI Machine Learning Repository&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping Used Car Sales</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-1/</link>
+      <pubDate>Mon, 15 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-1/</guid>
+      <description>&lt;p&gt;Built a used car dataset by scraping the most recently listed vehicles on theaa.com, utilising BeautifulSoup and Requests Python libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Medical Insurance Regression</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-4/</link>
+      <pubDate>Sun, 14 Mar 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-4/</guid>
+      <description>&lt;p&gt;A project to build an estimation model capable of accurately predicting a patient&amp;rsquo;s medical expenses based upon their basic characteristics of age, sex, BMI etc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://peterevansds.github.io/DSPortfolio/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/resources/</guid>
+      <description>There&amp;rsquo;s a lot to know about data science and machine learning.
+Staying informed on every relevant topic is a difficult task, and to do so, it&amp;rsquo;s necessary to keep studying.
+By exposing yourself to new concepts and theories, you increase the size of the toolbox at your disposal when it comes time to tackle new problems. In a rapidly growing and changing field, this is imperative. Although I am at the start of my data career, I believe this outlook is key in developing for the future.</description>
+    </item>
+    
+  </channel>
+</rss>
