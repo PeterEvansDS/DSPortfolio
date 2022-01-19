@@ -6,7 +6,17 @@
     <description>Recent content in Data Portfolio on PeterEvansDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Sep 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://peterevansds.github.io/DSPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://peterevansds.github.io/DSPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing a Maintainable ML Pipeline</title>
+      <link>https://peterevansds.github.io/DSPortfolio/post/project-8/</link>
+      <pubDate>Fri, 14 Jan 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://peterevansds.github.io/DSPortfolio/post/project-8/</guid>
+      <description>&lt;p&gt;After working on some sizeable projects, I realised that I needed to improve my coding skills in terms of following best practices.&lt;/p&gt;
+&lt;p&gt;The days of messy code scattered around a disorganised Jupyter notebook are gone after what I have learned on this project!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Dating App Clustering</title>
       <link>https://peterevansds.github.io/DSPortfolio/post/project-6/</link>
